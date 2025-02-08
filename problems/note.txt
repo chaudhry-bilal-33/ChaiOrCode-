@@ -1,0 +1,1 @@
+1 : why the typeof array is object ?

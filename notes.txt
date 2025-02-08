@@ -1,0 +1,29 @@
+check notes again and again 
+
+learn about all the prototypes of all data types 
+learn about the math functions
+
+"Date is a constructor for working with date and time objects.
+Math is a static object that provides mathematical functions and constants but cannot be instantiated."
+
+learn about the array methods and prototypes
+
+("we declare the new variable for some operations because the operations return the new value which has to be stored in variable otherwise there will be no output")
+
+singleton object
+use of this keyword 
+assign method in object 
+destructuring of object
+parameter and argument of functions 
+rest operator in functions
+let var and const with scope 
+why we usually use const with object 
+give me the name of way of declaration of function in js
+expression function 
+
+question :  which is the global object in browser..?
+answer : its window 
+
+scope concept in js 
+
+
